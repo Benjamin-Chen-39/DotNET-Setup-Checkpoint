@@ -7,6 +7,7 @@ namespace DotNET_Setup_Checkpoint
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, Benjamin Chen!");
+            Console.WriteLine("Hello, Keondre Lucas!");
         }
     }
 }
