@@ -1,0 +1,16 @@
+C:\Users\Administrator\Workspace\dotnet\DotNET-Setup-Checkpoint\bin\Debug\net5.0\DotNET-Setup-Checkpoint.exe
+C:\Users\Administrator\Workspace\dotnet\DotNET-Setup-Checkpoint\bin\Debug\net5.0\DotNET-Setup-Checkpoint.deps.json
+C:\Users\Administrator\Workspace\dotnet\DotNET-Setup-Checkpoint\bin\Debug\net5.0\DotNET-Setup-Checkpoint.runtimeconfig.json
+C:\Users\Administrator\Workspace\dotnet\DotNET-Setup-Checkpoint\bin\Debug\net5.0\DotNET-Setup-Checkpoint.runtimeconfig.dev.json
+C:\Users\Administrator\Workspace\dotnet\DotNET-Setup-Checkpoint\bin\Debug\net5.0\DotNET-Setup-Checkpoint.dll
+C:\Users\Administrator\Workspace\dotnet\DotNET-Setup-Checkpoint\bin\Debug\net5.0\ref\DotNET-Setup-Checkpoint.dll
+C:\Users\Administrator\Workspace\dotnet\DotNET-Setup-Checkpoint\bin\Debug\net5.0\DotNET-Setup-Checkpoint.pdb
+C:\Users\Administrator\Workspace\dotnet\DotNET-Setup-Checkpoint\obj\Debug\net5.0\DotNET-Setup-Checkpoint.csproj.AssemblyReference.cache
+C:\Users\Administrator\Workspace\dotnet\DotNET-Setup-Checkpoint\obj\Debug\net5.0\DotNET-Setup-Checkpoint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Workspace\dotnet\DotNET-Setup-Checkpoint\obj\Debug\net5.0\DotNET-Setup-Checkpoint.AssemblyInfoInputs.cache
+C:\Users\Administrator\Workspace\dotnet\DotNET-Setup-Checkpoint\obj\Debug\net5.0\DotNET-Setup-Checkpoint.AssemblyInfo.cs
+C:\Users\Administrator\Workspace\dotnet\DotNET-Setup-Checkpoint\obj\Debug\net5.0\DotNET-Setup-Checkpoint.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Workspace\dotnet\DotNET-Setup-Checkpoint\obj\Debug\net5.0\DotNET-Setup-Checkpoint.dll
+C:\Users\Administrator\Workspace\dotnet\DotNET-Setup-Checkpoint\obj\Debug\net5.0\ref\DotNET-Setup-Checkpoint.dll
+C:\Users\Administrator\Workspace\dotnet\DotNET-Setup-Checkpoint\obj\Debug\net5.0\DotNET-Setup-Checkpoint.pdb
+C:\Users\Administrator\Workspace\dotnet\DotNET-Setup-Checkpoint\obj\Debug\net5.0\DotNET-Setup-Checkpoint.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "DotNET-Setup-Checkpoint/1.0.0": {
+        "runtime": {
+          "DotNET-Setup-Checkpoint.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DotNET-Setup-Checkpoint/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
